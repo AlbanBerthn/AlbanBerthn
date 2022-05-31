@@ -22,7 +22,7 @@
 <hr/>
 
 <p align="justify">
-  Après plusieurs années en tant que veilleur de nuit dans un centre de rééducation, j'ai choisi de me réorienter vers un métier qui m'attirait beaucoup. J'ai découvert ce milieu par curiosité. C'est grâce à cette dernière que j'ai voulu savoir comment était créer les sites sur lesquels je naviguais.
+  Après plusieurs années en tant que veilleur de nuit dans un centre de rééducation, j'ai choisi de me réorienter vers un métier qui m'attirait beaucoup. J'ai découvert ce milieu par curiosité. C'est grâce à cette dernière que j'ai voulu savoir comment était créés les sites sur lesquels je naviguais.
   J'ai donc suivi une formation chez <a href="https://oclock.io/">O'Clock</a>, avec un socle PHP et une spécialisation en ReactJS, j'ai appris les bases de ce métier, mais j'ai également pris conscience de mes préférences.
 </p>
 <br>
